@@ -6,6 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
+            //TODO variables begin with lowercase
             double Height1 = 0.0;
             double Height2 = 0.0;
             double Width1 = 0.0;
